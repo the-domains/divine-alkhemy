@@ -1,0 +1,28 @@
+name: Divine Alkhemy
+favicon: null
+layout_spectrum: 0.39325032755732536
+typography_spectrum: 0.3711408020462841
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.753856597468257
+  lightness: 0.9313335292972624
+  saturation: 0.9104283794295043
+  rhythmicContrast: 0.05038115568459034
+purpose: []
