@@ -1,7 +1,7 @@
 name: Divine Alkhemy
 favicon: null
 layout_spectrum: 0.9107
-typography_spectrum: 0.3711408020462841
+typography_spectrum: 0.41029
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#cda882'
     - '#53675d'
   brandStrength: 0.75
-  lightness: 0.625
-  saturation: 0.6875
+  lightness: 0.5625
+  saturation: 0.3125
   rhythmicContrast: 0.75
 purpose: []
