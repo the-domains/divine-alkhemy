@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Divine Alkhemy]]></title>
         <description><![CDATA[Divine Alkhemy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/divine-alkhemy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jun 2016 20:31:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 30 Jun 2016 20:31:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/divine-alkhemy/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/933a813d-f96f-448d-bf67-d22d23764860.png">]]></description>
+            <link>https://thegrid.ai/divine-alkhemy/6638a0d0-e19f-4dc1-bcac-46f68221bd23/index.html</link>
+            <guid isPermaLink="false">6638a0d0-e19f-4dc1-bcac-46f68221bd23</guid>
+            <pubDate>Thu, 30 Jun 2016 20:31:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c8b0853-8446-4eaa-80fa-d4770f35a68d.png">]]></description>
-            <link>undefinede45a9278-5c95-4e33-944a-69f753939a42/index.html</link>
+            <link>https://thegrid.ai/divine-alkhemy/e45a9278-5c95-4e33-944a-69f753939a42/index.html</link>
             <guid isPermaLink="false">e45a9278-5c95-4e33-944a-69f753939a42</guid>
             <pubDate>Thu, 30 Jun 2016 20:31:44 GMT</pubDate>
         </item>
